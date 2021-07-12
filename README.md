@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # java-exceptionhandling
 
 # Goal
@@ -21,3 +22,7 @@ called Exception class
 ##     
                                        Muharrem Koç
                                            Java Developer
+=======
+# java-exception-handling
+Goal:ExceptionHandling
+>>>>>>> Initial commit
